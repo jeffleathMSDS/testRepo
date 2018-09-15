@@ -1,0 +1,8 @@
+#Jeff's Data Science Profile
+Jeff.DS <- data.frame (
+skill = c("Computer Programming", "Math", "Statistics", "Machine Learning", "Domain Expertise", "Communication", "Presentation Skills", "Data Visualization"),
+rank = c(3, 4, 3, 1, 5, 4, 4, 3),
+stringsAsFactors = FALSE
+)
+# print the data frame
+print(Jeff.DS)
